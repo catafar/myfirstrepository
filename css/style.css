@@ -1,0 +1,46 @@
+/*
+*{
+	margin:0;
+	padding:0;    **esto se hace para asegurarse de que no haya espacios de antes entre lo que se hace
+}
+*/
+
+h1{
+	color:green;
+}
+
+body{
+	background-color:gray;
+	/*asi se comenta*/
+	font-family: courier;
+	font-size:30px;
+	
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	
+}
+
+
+
+.box-1{
+	background-color:#333;
+	
+	border-right:5px red solid;
+	border-left:5px red solid;
+	border-top:5px red solid;
+	border-bottom:5px red solid;
+	/* same as above */
+	border: 5px red solid;
+	
+	
+	padding-top:20px;
+	
+	
+	
+	
+}
